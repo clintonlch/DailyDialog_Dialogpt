@@ -1,6 +1,6 @@
 
 # Description
-Dialogue systems are widely used in applications ranging from technical support services to language learning tools and entertainment. In the field of dialogue systems, multi-turn dialogue response generation is one of the main challenges. This repository tries to finetune the model with DailyDialog dataset and evaluate the model's performance with perplexity, BLEU and ROUGE. 
+Dialogue systems are widely used in applications ranging from technical support services to language learning tools and entertainment. In the field of dialogue systems, multi-turn dialogue response generation is one of the main challenges. This repository tries to finetune the model with the DailyDialog dataset and evaluate the model's performance with perplexity, BLEU and ROUGE. 
 
 ## Data parsing
 I will parse the data to the text format with the parsing script from [this repository](https://github.com/Sanghoon94/DailyDialogue-Parser).
